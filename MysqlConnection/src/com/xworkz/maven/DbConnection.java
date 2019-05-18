@@ -4,7 +4,7 @@ public class DbConnection {
 	
 	public static void main(String[] args) {
 	
-		//Comment for Git 
+		//Comment for Git hub canges
 		Lodge log= new Lodge();
 		log.setRoomid(102);
 		log.setLodgeName("Ashoka");
