@@ -3,7 +3,8 @@ package com.xworkz.maven;
 public class DbConnection {
 	
 	public static void main(String[] args) {
-		
+	
+		//Comment for Git 
 		Lodge log= new Lodge();
 		log.setRoomid(102);
 		log.setLodgeName("Ashoka");
