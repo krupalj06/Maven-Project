@@ -11,6 +11,7 @@ public class LodgeDao {
 		
 		SessionFactory factory = null;
 		Session session = null;
+		//This is also for Git 
 		try {
 		Configuration config = new Configuration();
 		config.configure("resources/hibernate.cfg.xml");

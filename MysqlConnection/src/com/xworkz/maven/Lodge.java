@@ -14,6 +14,7 @@ import org.hibernate.annotations.GenericGenerator;
 @Table(name="Lodging")
 public class Lodge implements Serializable{
 	
+	//This is for git test
 	@Column(name="room_id")
 	@Id
 	@GenericGenerator(name="id", strategy="increment")
