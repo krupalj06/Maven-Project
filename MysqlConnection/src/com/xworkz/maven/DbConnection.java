@@ -1,7 +1,7 @@
 package com.xworkz.maven;
 
 public class DbConnection {
-	
+	//Main method
 	public static void main(String[] args) {
 	
 		//Comment for Git hub canges
